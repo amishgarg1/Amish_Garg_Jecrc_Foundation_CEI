@@ -1,0 +1,20 @@
+# Ignore local assignment work directories that are not on remote
+New folder/
+Week 2/
+Week 3/
+Week 4/
+Week 5/
+Week3/
+
+# Python cache files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Environment files
+**/venv/
+**/.venv/
+**/.env
+
+# Ignore log files
+**/*.log
