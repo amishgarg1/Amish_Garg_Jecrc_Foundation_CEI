@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "dataset_evaluated": "vectara/open_ragbench",
+    "timestamp": "2026-07-05 16:58:51",
+    "configurations": {
+      "num_samples": 3,
+      "chunk_size": 500,
+      "chunk_overlap": 50,
+      "embedding_type": "local",
+      "embedding_model_name": "all-MiniLM-L6-v2",
+      "embedding_dimension": 384,
+      "llm_type": "mock",
+      "hybrid_alpha": 0.5,
+      "re_ranking": true
+    },
+    "averages": {
+      "mean_retrieval_recall": 1.0,
+      "mean_groundedness": 0.8789510006901312,
+      "mean_answer_f1": 0.37800519818063677,
+      "mean_latency_sec": 13.619085947672525
+    }
+  },
+  "results": [
+    {
+      "sample_id": 0,
+      "question": "What is Open RAGBench?",
+      "retrieved_chunks": [
+        {
+          "id": 0,
+          "score": 1.0,
+          "text": "Vectara Open RAGBench is a high-quality benchmark designed for evaluating Retrieval-Augmented Generation (RAG) systems. It features 1,000 arXiv PDF documents containing mixtures of text, tables, and images. It evaluates retrieval recall, context parsing, and response accuracy."
+        }
+      ],
+      "generated_answer": "[Grounded Local Answer] Vectara Open RAGBench is a high-quality benchmark designed for evaluating Retrieval-Augmented Generation (RAG) systems.",
+      "golden_answer": "A benchmark by Vectara for evaluating RAG systems on arXiv PDF documents.",
+      "metrics": {
+        "recall": 1.0,
+        "groundedness": 0.8666666666666667,
+        "answer_f1": 0.4166666666666667,
+        "latency_sec": 19.01381754875183
+      }
+    },
+    {
+      "sample_id": 1,
+      "question": "How many documents are in Open RAGBench?",
+      "retrieved_chunks": [
+        {
+          "id": 0,
+          "score": 1.0,
+          "text": "The Open RAGBench dataset has 1,000 PDF papers distributed across arXiv categories. Over 3,000 question-answer pairs are included in this benchmark to evaluate retrieval and answer generation accuracy."
+        }
+      ],
+      "generated_answer": "[Grounded Local Answer] The Open RAGBench dataset has 1,000 PDF papers distributed across arXiv categories.",
+      "golden_answer": "1,000 PDF papers.",
+      "metrics": {
+        "recall": 1.0,
+        "groundedness": 0.8571428571428571,
+        "answer_f1": 0.4210526315789474,
+        "latency_sec": 11.844175100326538
+      }
+    },
+    {
+      "sample_id": 2,
+      "question": "What is the purpose of hybrid search in RAG?",
+      "retrieved_chunks": [
+        {
+          "id": 0,
+          "score": 1.0,
+          "text": "Hybrid search in RAG combines sparse retrieval (like BM25, which matches exact keywords) with dense retrieval (like vector similarity, which matches semantic concepts). This combination leverages the precision of keywords and the conceptual breadth of vector search."
+        }
+      ],
+      "generated_answer": "[Grounded Local Answer] Hybrid search in RAG combines sparse retrieval (like BM25, which matches exact keywords) with dense retrieval (like vector similarity, which matches semantic concepts).",
+      "golden_answer": "To combine keyword matching (BM25) and semantic vector search.",
+      "metrics": {
+        "recall": 1.0,
+        "groundedness": 0.9130434782608695,
+        "answer_f1": 0.29629629629629634,
+        "latency_sec": 9.999265193939209
+      }
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "Submitted to: \nMrs. Kususm Yadav\n Assistant Professor \nDepartment of Information Technology\nJaipur Engineering College & Research Centre, Jaipur\nRajasthan Technical, University \nA\nFoundation Course Report\nOn \nPSYCHOLOGY FOR EVERYDAY LIVING \nSubmitted \nIn partial fulfillment of the requirement for the award of degree of \nBachelor of Technology\nIn \nInformation Technology \n(Session 2025-2026)\nSubmitted by: \nAmish Garg (23EJCIT019) \nVI Semester Date: 18-04-2026",
+    "char_count": 461,
+    "word_count": 60
+  },
+  {
+    "chunk_id": 1,
+    "text": "VI Semester Date: 18-04-2026 \nPlace: Jaipur Engineering College & Research Centre \nI understand that any such reproducing from an original work by another is liable to be\npunished in a way the University authorities‘ deed fit. \nAmish Garg\n23EJCIT019\nI hereby declare that the Foundation course report entitled Psychology for Everyday Living\nhas been carried out and submitted by the undersigned to the Jaipur Engineering College &\nResearch Centre, Jaipur (Rajasthan), is an original work.",
+    "char_count": 488,
+    "word_count": 75
+  },
+  {
+    "chunk_id": 2,
+    "text": "Jaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nii \nCANDIDATE’S DECLARATION iii \nJaipur Engineering college & Research Center,\nShri ram ki nangal, via Sitapura RIICO,\nJaipur (302022) \nAcademic Year- 2025-2026 Bachelor of Technology in Information technology is the Rajasthan Technical University\ncourse (Approved by AICTE) having duration of 4 years. As a prerequisite of the syllabus",
+    "char_count": 468,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 3,
+    "text": "every student on this course has to make a report on Foundation Course in order to\ncomplete his studies successfully and it is required to submit the report on the completion\nof it. \nThe main objective of this report is to create awareness regarding the application of the\ncontents beyond engineering in the practical world and to give an exposure of the real\nworld to the student. \nI, therefore, submit this foundation course report on Psychology for Everyday Living , which",
+    "char_count": 475,
+    "word_count": 81
+  },
+  {
+    "chunk_id": 4,
+    "text": "was undertaken at JECRC, Jaipur. I feel great pleasure to present this foundation course\nreport. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \niv \nPREFACE 1. To impart outcome-based education for emerging technologies in the field of computer \nscience and engineering. \n2. To provide opportunities for interaction between academia and industry.",
+    "char_count": 431,
+    "word_count": 62
+  },
+  {
+    "chunk_id": 5,
+    "text": "3. To provide platform for lifelong learning by accepting the change in technologies \n4. To develop aptitude of fulfilling social responsibilities. \nTo become renowned Centre of excellence in computer science and engineering and make\ncompetent engineers & professionals with high ethical values prepared for lifelong learning. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nv \nVISION OF DEPARTMENT",
+    "char_count": 483,
+    "word_count": 69
+  },
+  {
+    "chunk_id": 6,
+    "text": "Academic Year- 2025-2026 \nv \nVISION OF DEPARTMENT \nMISSION OF DEPARTMENT PO1: Engineering Knowledge: Apply knowledge of mathematics, natural science,\ncomputing, engineering fundamentals and an engineering specialization as specified in WK1\nto WK4 respectively to develop to the solution of complex engineering problems. \nPO2: Problem Analysis: Identify, formulate, review research literature and analyze \ncomplex engineering problems reaching substantiated conclusions with consideration for",
+    "char_count": 491,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 7,
+    "text": "sustainable development. (WK1 to WK4) \nPO3: Design/Development of Solutions: Design creative solutions for complex \nengineering problems and design/develop systems/components/processes to meet \nidentified needs with consideration for the public health and safety, whole-life cost, net \nzero carbon, culture, society and environment as required. (WK5) \nPO4: Conduct Investigations of Complex Problems: Conduct investigations of complex",
+    "char_count": 434,
+    "word_count": 53
+  },
+  {
+    "chunk_id": 8,
+    "text": "engineering problems using research-based knowledge including design of experiments, \nmodelling, analysis & interpretation of data to provide valid conclusions. (WK8). \nPO5: Engineering Tool Usage: Create, select and apply appropriate techniques, resources \nand modern engineering & IT tools, including prediction and modelling recognizing their \nlimitations to solve complex engineering problems. (WK2 and WK6) \nPO6: The Engineer and The World: Analyze and evaluate societal and environmental",
+    "char_count": 493,
+    "word_count": 64
+  },
+  {
+    "chunk_id": 9,
+    "text": "aspects while solving complex engineering problems for its impact on sustainability with \nreference to economy, health, safety, legal framework, culture and environment. (WK1, \nWK5, and WK7). \nPO7: Ethics: Apply ethical principles and commit to professional ethics, human values, \ndiversity and inclusion; adhere to national & international laws. (WK9) \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nvi",
+    "char_count": 488,
+    "word_count": 68
+  },
+  {
+    "chunk_id": 10,
+    "text": "Academic Year- 2025-2026 \nvi \nPROGRAM OUTCOMES (POs) PO8: Individual and Collaborative Team work: Function effectively as an individual,\nand as a member or leader in diverse/multi-disciplinary teams. \nPO9: Communication: Communicate effectively and inclusively within the engineering \ncommunity and society at large, such as being able to comprehend and write effective \nreports and design documentation, make effective presentations considering cultural, \nlanguage, and learning differences",
+    "char_count": 491,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 11,
+    "text": "language, and learning differences \nPO10: Project Management and Finance: Apply knowledge and understanding of \nengineering management principles and economic decision-making and apply these to \none's own work, as a member and leader in a team, and to manage projects and in \nmultidisciplinary environments. \nPO11: Life-Long Learning: Recognize the need for, and have the preparation and ability \nfor \ni) \nii) \niii) \nindependent and life-long learning",
+    "char_count": 451,
+    "word_count": 64
+  },
+  {
+    "chunk_id": 12,
+    "text": "i) \nii) \niii) \nindependent and life-long learning \nadaptability to new and emerging technologies and \ncritical thinking in the broadest context of technological change. (WK8) \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nvii •\n•\nThe PEOs of the B.Tech (IT) program are: \n1. To produce graduates who are able to apply computer engineering knowledge to",
+    "char_count": 437,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 13,
+    "text": "provide turn- key IT solutions to national and international organizations. \n2. To produce graduates with the necessary background and technical skills to work \nprofessionally in one or more of the areas like – IT solution design development and \nimplementation consisting of system design, network design, software design and \ndevelopment, system implementation and management etc. Graduates would be able \nto provide solutions through logical and analytical thinking.",
+    "char_count": 469,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 14,
+    "text": "3. To able graduates to design embedded systems for industrial applications. \n4. To inculcate in graduates effective communication skills and teamwork skills to \nenable them to work in multidisciplinary environment. \n5. To prepare graduates for personal and professional success with commitment to their \nethical and social responsibilities. \nPSO1: Ability to interpret and analyze network specific and cyber security issues\nin real world environment.",
+    "char_count": 451,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 15,
+    "text": "in real world environment.\nPSO2: Ability to design and develop mobile and web-based applications under\nrealistic constraints. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nviii \nPROGRAM SPECIFIC OUTCOMES (PSOs) \nPROGRAM EDUCATIONAL OBJECTIVES(PEOs) 3CS7-30\nIndustrial\nTraining \nSubject code COs \nCO1\nCO2 \n3 \n3 \n3\n3 \n2\n3 \n2\n3 \n2\n3 \nProgram Outcomes (POs) \nP \nO \n- \n1 \nP \nO \n- \n2 \nP \nO \n- \n3 \nP \nO \n- \n4 \nP \nO \n-",
+    "char_count": 497,
+    "word_count": 84
+  },
+  {
+    "chunk_id": 16,
+    "text": "- \n1 \nP \nO \n- \n2 \nP \nO \n- \n3 \nP \nO \n- \n4 \nP \nO \n- \n5 \nP \nO \n- \n6 \n1\n1 \nP\nO\n-\n7 \n1\n1 \nP\nO\n-\n8 \n2\n2 \nP\nO\n-\n9 \n2\n2 \n3\n3 \nP\nO\n-\n10 \n3\n3 \nP\nO\n-\n11 \nOn completion of project Graduates will be able to- \n• CO1: Generate the report based on the Projects carried out for demonstrating the \nability to apply the knowledge of engineering field during training. \nCO2: Demonstrate Competency in relevant engineering fields through problem • \nidentification, formulation and solution. \n3\n3 \nP\nO\n-\n12",
+    "char_count": 484,
+    "word_count": 107
+  },
+  {
+    "chunk_id": 17,
+    "text": "3\n3 \nP\nO\n-\n12 \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nix \nMAPPING: CO’s & PO’s \nCOURSE OUTCOMES (COs) Amish Garg\n23EJCIT01\nLast but not the least, I am heartily thankful to my friend sandal l those people who\nare involved directly or indirectly in this seminar report for encouraging me whenever\nI needed their help in spite of their busy schedule.",
+    "char_count": 441,
+    "word_count": 76
+  },
+  {
+    "chunk_id": 18,
+    "text": "I am indebted towards my Course Coordinator and class coordinator, who have allotted\ntheir precious time and advice during the period, which is imminent to the report. \n“Any serious and lasting achievement or success, one can never achieve without the help,\nguidance and co-operation of so many people involved in the work.” \nIt is my pleasant duty to express my profound gratitude and extreme regards and thanks to Mr.",
+    "char_count": 419,
+    "word_count": 69
+  },
+  {
+    "chunk_id": 19,
+    "text": "Arpit Agarwal, Dr. V.K. Chandna, and Dr. Smita Agarwal gave me an opportunity to take\nthis Foundation course report. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nx \nACKNOWLEDGEMENT This course offers a practical and accessible introduction to core psychological principles,\nspecifically focusing on their application to enhance daily functioning, well-being, and",
+    "char_count": 450,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 20,
+    "text": "personal effectiveness. Designed for students of all backgrounds, the curriculum moves\nbeyond theoretical concepts to provide immediately usable strategies for navigating\ncomplex social and personal landscapes. Key modules will explore the science of\nmotivation and goal-setting, evidence-based techniques for stress and anxiety management,\nthe dynamics of interpersonal communication and conflict resolution, and the cognitive",
+    "char_count": 427,
+    "word_count": 54
+  },
+  {
+    "chunk_id": 21,
+    "text": "biases that influence decision-making. We will delve into emotional intelligence, teaching\nparticipants how to identify, understand, and manage their own emotions and those of\nothers, fostering healthier relationships and greater self-awareness. By the end of this\ncourse, participants will possess a robust psychological toolkit to improve their interactions,\nmanage life challenges, and cultivate a more fulfilling, intentional life. \nJaipur Engineering College and Research",
+    "char_count": 476,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 22,
+    "text": "Jaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nxi \nABSTRACT 1.\n2.\n3.\n4.\n5. \nS.no Content\nCandidate’s Declaration \nBonafide Certificate\nPreface\nVision and Mission\nProgram Outcomes (POs)\nProgram Education Objectives (PEOs) \nProgram Specific Outcomes (PSOs) \nCourse Outcomes (COs) \nMapping: COs and POs Acknowledgement\nAbstract \nIntroduction and details of unit 1 of the course \nDetails from Unit -2",
+    "char_count": 481,
+    "word_count": 69
+  },
+  {
+    "chunk_id": 23,
+    "text": "Details from Unit -2 \nDetails from Unit -3 \nDetails from Unit -4 \nConclusion and Results \nFuture Scope REFERENCES \nTable of Content \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nxii 1. Meaning of Psychology \nPsychology focuses not only on what people do, but also why they do it. It studies: \n\u0000\n\u0000\n\u0000\n\u0000 \nHow people feel (emotions)\nHow people think (cognition)\nHow people learn and remember",
+    "char_count": 474,
+    "word_count": 78
+  },
+  {
+    "chunk_id": 24,
+    "text": "How people learn and remember\nHow people communicate and socialize \n\u0000 Why people behave normally or abnormally \n⭐ 2. Nature (Features) of Psychology\nPsychology has certain characteristics that make it a scientific field: \nNature of Psychology\nPsychological study is scientific \nExplanation\nIt uses experiments, observations, measurements \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026",
+    "char_count": 469,
+    "word_count": 65
+  },
+  {
+    "chunk_id": 25,
+    "text": "RIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nThe word Psychology comes from two Greek words: \n\u0000 ‗Psyche‘ → Mind or Soul\n\u0000 ‗Logos‘ → Study or Knowledge \nTherefore, Psychology = Scientific study of mind and behavior.\nEarlier, psychology was defined as ―study of soul‖. Later it was called ―study of mind‖. But today,\npsychologists define psychology as:\nPsychology is the scientific study of human and animal behavior, including mental processes such as\nthinking, memory, emotions and motivation.",
+    "char_count": 498,
+    "word_count": 77
+  },
+  {
+    "chunk_id": 26,
+    "text": "thinking, memory, emotions and motivation. \n13 \n \nUNIT 1 – INTRODUCTION TO PSYCHOLOGY Goal\nDescribe behaviour\nExplain behaviour\nPredict behaviour\nControl/Modify \nbehavior \n 3. Goals of Psychology \nThe major goals of psychology are: \nSo psychology connects science + human life + behavior + health. \nMeaning\nObserve and record behavior\nUnderstand reasons behind actions\nForecast how a person may act in a particular situation\nHelp individuals change harmful or negative behavior to improve \nwellbeing",
+    "char_count": 499,
+    "word_count": 71
+  },
+  {
+    "chunk_id": 27,
+    "text": "wellbeing \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nNature of Psychology \nObservable and unobservable behavior \nObjective \nExplanation \nCovers actions + thoughts + emotions \nFree from personal bias \nSystematic study of individuals and groups Studies both person and society \nPredictive \nApplied and theoretical \nBased on patterns, psychology predicts behavior \nUsed in real life + constructs theories",
+    "char_count": 494,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 28,
+    "text": "Used in real life + constructs theories \nExample:\nIf a student fails repeatedly — psychology describes the problem (poor results), explains the causes\n(stress, wrong study method), predicts outcomes (more failure), and helps modification (study\nplanning, counseling). \n14 \n⭐Method\nObservation \n⭐ 4. Branches of Psychology\nPsychology has various specialized branches: \n⭐ 5. Methods of Psychology\nPsychology uses scientific methods to study human behavior: \nPurpose",
+    "char_count": 463,
+    "word_count": 64
+  },
+  {
+    "chunk_id": 29,
+    "text": "Purpose\nWatching behavior in natural situations \nBranch\nGeneral Psychology\nDevelopmental Psychology\nSocial Psychology\nEducational Psychology\nClinical Psychology\nCounseling Psychology \nFocus Area\nBasic human mental processes\nGrowth from infancy to old age\nInfluence of society on behavior\nLearning methods and classroom behavior\nDiagnosis and treatment of mental illness\nGuidance for stress, adjustment, personal issues \nIndustrial/Organizational Psychology Employee behavior and productivity",
+    "char_count": 491,
+    "word_count": 59
+  },
+  {
+    "chunk_id": 30,
+    "text": "Health Psychology\nCognitive Psychology\nBiological Psychology \nMind–body relationship and stress management\nThinking, problem solving, memory\nBrain, hormones and nervous system effect on behavior \nThese branches show how psychology is useful in schools, hospitals, offices, industries and daily\nlife. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n15 Psychology studies both types. \n 6. Psychology and Behavior",
+    "char_count": 495,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 31,
+    "text": "6. Psychology and Behavior \n 7. Psychology and Mental Processes \nMental processes are internal functions of the mind: \n\u0000 Thinking \nBehavior means any action or reaction of an organism.\nTwo types of behavior: \nBecause of these methods psychology is scientific and reliable. \nMethod Purpose \nExperimental Method    Controlled lab-based study \nCase Study Deep study of a single individual \nSurvey / Questionnaire Collecting data from many people \nInterview\nPsychological Tests",
+    "char_count": 473,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 32,
+    "text": "Interview\nPsychological Tests \nDirect conversation to gather information\nIQ tests, personality tests, aptitude tests \nType Meaning Example \nOvert behavior   Visible, measurable   Talking, eating, working \nCovert behavior Internal, mental Thoughts, emotions, reasoning \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n16 \n⭐\n⭐Psychology has practical use in every area of life:",
+    "char_count": 459,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 33,
+    "text": "8. Importance and Applications of Psychology \nField\nEducation\nHealth\nIndustry\nFamily\nSports\nLaw\nMarketing \nUse of Psychology\nImproving learning, teaching, motivation\nStress, depression, coping skills\nEmployee selection, teamwork, performance boost\nChild behavior and parenting strategies\nMotivation, confidence, focus training\nCriminal behavior, eyewitness reports\nConsumer behavior, advertising \nPersonal Growth Emotional intelligence, self-awareness",
+    "char_count": 451,
+    "word_count": 51
+  },
+  {
+    "chunk_id": 34,
+    "text": "Thus, psychology improves mental, emotional, social and professional life. \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n\u0000 \n\u0000 \n\u0000 \n\u0000 \n\u0000 \n\u0000 \nRemembering \nLearning \nProblem solving \nDecision making \nPerception \nEmotions \nEven though mental processes are invisible, psychology studies them scientifically through tests and \nexperiments. \n17 \n⭐⭐ 10. Modern Definition of Psychology",
+    "char_count": 466,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 35,
+    "text": "17 \n⭐⭐ 10. Modern Definition of Psychology\nModern psychologists combine science + brain + behavior + environment: \nPsychology is the scientific study of behavior and mental processes in relation to biological, \npsychological and social factors. \nThis definition gives complete picture of human behavior. \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n⭐ 9. Scope of Psychology \nThe scope includes: \n\u0000 \n\u0000 \n\u0000 \n\u0000",
+    "char_count": 497,
+    "word_count": 74
+  },
+  {
+    "chunk_id": 36,
+    "text": "The scope includes: \n\u0000 \n\u0000 \n\u0000 \n\u0000 \nPersonality development \nChild development \nBehavioral modification \nMental health and therapy \n\u0000 Workplace performance \n\u0000 Social relations and cultural behavior \nPsychology today works with teachers, doctors, engineers, soldiers, athletes, lawyers, business \nleaders and students. \n⭐ 11. Summary \n\u0000\n\u0000\n\u0000\n\u0000\n\u0000 \n\u0000 \nPsychology is a scientific discipline.\nIt studies mind, behavior, thoughts, emotions and actions.",
+    "char_count": 442,
+    "word_count": 62
+  },
+  {
+    "chunk_id": 37,
+    "text": "It has clear goals: describe, explain, predict and modify behavior.\nIt applies research methods such as experiments, observation and surveys.\nPsychology has many branches that help solve real-life problems. \nIt plays major roles in health, education, workplace, sports, family and personal life. \nTherefore, psychology is not only a theory — it is a powerful tool to improve human well-being and \nquality of life. \n18  1. Introduction  \n 2. The Nervous System  \nRIICO Jaipur- 302 022.",
+    "char_count": 484,
+    "word_count": 74
+  },
+  {
+    "chunk_id": 38,
+    "text": "2. The Nervous System  \nRIICO Jaipur- 302 022.  \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura  \nThe nervous system acts as the communication network of the body. It receives information from\nthe environment, processes it, and commands the body to act.\nThe nervous system is divided into two major parts:\nNervousSystem  \n├──Central Nervous System (CNS)  \n│\n│\n├ ─ ─  B r a i n\n└ ─ ─  S p i n a l  C o r d  \n└──Peripheral Nervous System (PNS)",
+    "char_count": 475,
+    "word_count": 86
+  },
+  {
+    "chunk_id": 39,
+    "text": "└──Peripheral Nervous System (PNS)  \n├── Somatic Nervous System\n└── Autonomic Nervous System  \n├── Sympathetic Division  \n└── Parasympathetic Division  \n19  \nHuman behavior is not random — it is controlled and influenced by the brain, nerves, hormones\nand body systems. The branch of psychology that studies the connection between biology and\nbehaviour is called Biopsychology.\nBiological basis of behaviour explains how the brain, nervous system, hormones and genetics",
+    "char_count": 469,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 40,
+    "text": "affect the way people think, feel and act.\nEvery activity — such as walking, speaking, decision-making, emotions, learning and even\nsleeping — has a biological foundation.  \nAcademic Year- 2025-2026  \nU N I T  –  2  B I O L O G Y C A L  B A S I S  O F  B E H A V I O U R  \n⭐\n⭐B r a i n  \nCerebral Hemispheres and Lobes  \n 2.1 Central Nervous System (CNS)  \nRIICO Jaipur- 302 022.  \n⭐  2.2 Spinal Cord  \nThe spinal cord connects the brain with the rest 2o0f the body.  \nFunctions:",
+    "char_count": 479,
+    "word_count": 97
+  },
+  {
+    "chunk_id": 41,
+    "text": "Functions:  \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura  \nThe cerebrum is divided into right and left hemispheres and 4 lobes:  \nLobe\nFrontal Lobe\nParietal Lobe\nTemporal Lobe Side  \nLocation Function  \nFront\nTop  \nPlanning, reasoning, motor functions, personality\nTouch, pain, temperature, spatial awareness\nHearing, language, memory\nVisual processing  \nOccipital Lobe   Back  \nThe brain is the control center of the body. It consists of:  \nBrain Part\nCerebrum",
+    "char_count": 498,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 42,
+    "text": "Brain Part\nCerebrum\nCerebellum  \nFunction\nThinking, memory, learning, decision-making, voluntary movements\nBalance, coordination of movements  \nM e d u l l a  ( B r a i n  S t e m )  B r e a t h i n g ,  h e a r t b e a t ,  d i g e s t i o n ,  s u r v i v a l  f u n c t i o n s  \nHypothalamus\nLimbic System  \nHunger, thirst, body temperature, emotions\nEmotions, motivation, fear, pleasure and memory  \nAcademic Year- 2025-2026  \n⭐ 3. Peripheral Nervous System (PNS)",
+    "char_count": 468,
+    "word_count": 103
+  },
+  {
+    "chunk_id": 43,
+    "text": "⭐ 3. Peripheral Nervous System (PNS)  \n 5. Neurotransmitters and Behaviour  21  \nRIICO Jaipur- 302 022.  \n\u0000\n\u0000  \nCarries messages to/from brain\nControls reflex actions (quick automatic responses)  \nExample: Instantly withdrawing hand from a hot surface.  \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura  \nAutonomic system is further divided into:  \n\u0000 Sympathetic system → ―Fight or Flight‖ response (emergency situations)",
+    "char_count": 454,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 44,
+    "text": "Increases heartbeat, blood pressure, sweating, alertness  o  \n\u0000 Parasympathetic system → ―Rest and Digest‖  \no Relaxes body, lowers heartbeat, promotes digestion and recovery  \n⭐  4. Neurons — The Building Blocks of the Nervous System\nA neuron is the basic unit of the nervous system.  \nStructure of Neuron:  \n\u0000 Dendrites → receive signals\n\u0000 Cell body → processes information  \n\u0000 Axon → sends signals to next neuron  \n\u0000 Synapse → junction between two neurons",
+    "char_count": 458,
+    "word_count": 73
+  },
+  {
+    "chunk_id": 45,
+    "text": "\u0000 Synapse → junction between two neurons  \nNeurons communicate through electrical impulses and chemicals called neurotransmitters.  \nThe PNS links the CNS with the body organs and muscles.  \nDivision\nSomatic Nervous System  \nFunction\nControls voluntary actions like moving hands or walking  \nA u t o n o m i c  N e r v o u s  S y s t e m  C o n t r o l s  i n v o l u n t a r y  a c t i o n s  l i k e  b r e a t h i n g ,  h e a r t b e a t ,  d i g e s t i o n  \nAcademic Year- 2025-2026  \n⭐\n⭐Gland",
+    "char_count": 500,
+    "word_count": 126
+  },
+  {
+    "chunk_id": 46,
+    "text": "Academic Year- 2025-2026  \n⭐\n⭐Gland\nPituitary\nAdrenal\nThyroid\nPancreas  \nSerotonin  \nAcetylcholine  \n( A C h )  \nNorepinephrine  \nGABA  \nEndorphins  \nNeurotransmitter  \nDopamine  \nHormone\nGrowth hormones\nAdrenaline\nThyroxine\nInsulin  \nFunction\nPleasure, motivation,  \nmovement  \nMood, sleep, appetite  \nMemory, learning, muscle  \naction  \nAlertness, stress response  \nRelaxation, calming effect  \nNatural painkillers  \n 6. Endocrine System (Hormones and Behaviour)  \nRIICO Jaipur- 302 022.",
+    "char_count": 489,
+    "word_count": 56
+  },
+  {
+    "chunk_id": 47,
+    "text": "RIICO Jaipur- 302 022.  \nNeurotransmitters play a major role in feelings and actions:  \nThus, behaviour is highly affected by chemical balance in the brain.  \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura  \nE f f e c t  o n  B e h a v i o u r  B o d y\nd e v e l o p m e n t ,  r e p r o d u c t i o n  S t r e s s\nr e a c t i o n ,  f e a r ,  e m e r g e n c y  r e s p o n s e\nM e t a b o l i s m ,  e n e r g y  l e v e l",
+    "char_count": 459,
+    "word_count": 140
+  },
+  {
+    "chunk_id": 48,
+    "text": "M e t a b o l i s m ,  e n e r g y  l e v e l  \nB l o o d  s u g a r  r e g u l a t i o n ,  h u n g e r  \n22  \nLow Level Result     High Level Result  \nParkinson‘s  \ndisease  \nDepression,  \nanxiety  \nAddiction /  \nschizophrenia  \nOver-excitement  \nMemory loss  Muscle spasms  \nFatigue  \nSeizures  \nLow pain  \ntolerance  \nAnxiety  \nExcessive relaxation  \nReduced pain sensation  \nAcademic Year- 2025-2026",
+    "char_count": 404,
+    "word_count": 82
+  },
+  {
+    "chunk_id": 49,
+    "text": "Academic Year- 2025-2026  \nThe endocrine system releases hormones into the blood. These hormones directly affect behavior,\nmood and stress.  \n⭐ 8. Biological Basis and Abnormal Behaviour  \nBiological Problem      Resulting Behaviour / Disorder  \n23  \nLow serotonin  Depression and anxiety  \nRIICO Jaipur- 302 022.  \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura  \nDisturbances in brain chemistry or hormones can cause psychological disorders:  \nExample:",
+    "char_count": 488,
+    "word_count": 65
+  },
+  {
+    "chunk_id": 50,
+    "text": "Example:  \n\u0000 Hyperthyroidism (too much thyroid hormone) → Anxiety and restlessness\n\u0000 Low serotonin + dopamine imbalance → Depression  \n⭐  7. Genetics and Behaviour\nGenes determine many aspects of behavior, such as:  \n\u0000  \n\u0000  \n\u0000  \n\u0000  \n\u0000  \n\u0000  \nIntelligence  \nTalents and learning ability  \nPersonality traits  \nRisk of mental illnesses (like depression or autism)  \nTemperament (introverted/extroverted)  \nEmotional sensitivity",
+    "char_count": 424,
+    "word_count": 57
+  },
+  {
+    "chunk_id": 51,
+    "text": "Emotional sensitivity  \nTwin studies and adoption studies prove that behaviour is shaped by both heredity (genes) and\nenvironment.\nFormula:  \nBehaviour = Heredity (biology) + Environment (learning & life experiences)  \nAcademic Year- 2025-2026  \nGland  Hormone  Effect on Behaviour  \nG o n a d s  ( T e s t e s / O v a r i e s )  T e s t o s t e r o n e  &  E s t r o g e n  S e x  d r i v e ,  m o o d ,  a g g r e s s i o n  \n⭐This is why modern treatment includes:  \n\u0000\n\u0000\n\u0000  \nMedications",
+    "char_count": 489,
+    "word_count": 114
+  },
+  {
+    "chunk_id": 52,
+    "text": "\u0000\n\u0000\n\u0000  \nMedications\nBrain stimulation therapies\nPsychotherapy + counseling  \n24  \nBiological Problem     Resulting Behaviour / Disorder  \nExcess dopamine\nLow dopamine\nBrain injury\nGenetic causes  \nSchizophrenia\nParkinson‘s disease\nMemory loss, personality change\nAutism, bipolar disorder  \nH o r m o n a l  i m b a l a n c e  M o o d  s w i n g s ,  i r r i t a b i l i t y  \nRIICO Jaipur- 302 022.  \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura  \n⭐  9. Summary",
+    "char_count": 497,
+    "word_count": 94
+  },
+  {
+    "chunk_id": 53,
+    "text": "⭐  9. Summary  \n\u0000  \n\u0000  \nHuman behaviour has a biological foundation.  \nThe nervous system, brain, hormones, neurotransmitters and genes shape thoughts,\nemotions and actions.\nBrain lobes control different psychological functions.  \nNeurotransmitter imbalance leads to mood and mental disorders.  \nHormones and genes also influence personality and behaviour.  \nUnderstanding biology helps in treating mental illness and improving wellbeing.  \n\u0000  \n\u0000  \n\u0000  \n\u0000",
+    "char_count": 454,
+    "word_count": 60
+  },
+  {
+    "chunk_id": 54,
+    "text": "\u0000  \n\u0000  \n\u0000  \n\u0000  \nThus, behaviour is not just psychological — it is strongly interconnected with biological  \nprocesses.  \nAcademic Year- 2025-2026   1. Introduction \n PART A — SENSATION\n⭐ 2. Meaning and Definition of Sensation \nProcess Function \nSensation   Receiving information through sense organs\nPerception  Organizing & interpreting sensory information\nAttention    Selecting some information & ignoring others \nTogether, they help us make sense of the world.\nExample:",
+    "char_count": 473,
+    "word_count": 65
+  },
+  {
+    "chunk_id": 55,
+    "text": "Example: \nWhen you walk on the road, you see cars (sensation), understand whether a car is close or far \n(perception), and focus on crossing safely (attention). \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nUNIT- 3 SENSATION , PERCEPTION, ATTENTION \nSensation is the process by which sense organs receive and detect physical energy (stimuli) from the\nenvironment. \nThis means: \n\u0000 \n\u0000 \n\u0000 \n\u0000 \nEyes detect light",
+    "char_count": 494,
+    "word_count": 77
+  },
+  {
+    "chunk_id": 56,
+    "text": "This means: \n\u0000 \n\u0000 \n\u0000 \n\u0000 \nEyes detect light \nEars detect sound waves \nSkin detects pressure & temperature \nNose detects smell \nHumans constantly receive information from the environment — sounds, smells, colors, objects,\npeople, temperature, light, taste etc. But simply receiving information is not enough. The brain must\ninterpret and understand it. \nThis is why Psychology has three important processes: \n25 \n⭐Type \nAbsolute Threshold \nDifference Threshold (Just \nNoticeable Difference – JND)",
+    "char_count": 494,
+    "word_count": 71
+  },
+  {
+    "chunk_id": 57,
+    "text": "Noticeable Difference – JND) \n⭐ 4. Thresholds of Sensation\nThreshold = limit at which we detect stimuli. \n 3. Sense Organs and Sensory Modalities \nSense Organ Sensory Experience\nVision\nHearing\nTouch, pressure, pain, temperature\nSmell\nTaste \nEyes\nEars\nSkin\nNose\nTongue \nExample of JND:\nIf carrying a 1 kg bag, adding 200 g is noticeable.\nIf carrying a 20 kg bag, adding 200 g is not noticeable. \n\u0000 Tongue detects taste \nSensation is passive → It only receives input, no interpretation. \nMeaning",
+    "char_count": 493,
+    "word_count": 81
+  },
+  {
+    "chunk_id": 58,
+    "text": "Meaning\nThe minimum intensity required to detect a stimulus (e.g., \nfaintest sound you can hear) \nMinimum change required to notice difference between two \nstimuli (e.g., noticing sound volume has increased slightly) \nEach sense organ converts physical energy into neural signals that the brain can understand. This\nprocess is called transduction. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n26",
+    "char_count": 483,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 59,
+    "text": "Academic Year- 2025-2026 \n26 \n⭐ 5. Adaptation \nPART B — PERCEPTION\n⭐ 6. Meaning and Definition of Perception \n 7. Stages of Perception \n1. Selection → Choosing which sensory input to notice\n2. Organization → Arranging the information in a meaningful way\n3. Interpretation → Giving meaning to that information \nIf a stimulus remains constant, sensitivity decreases.\nExamples: \n\u0000\n\u0000 \nAfter some time you stop noticing the smell of perfume you applied.",
+    "char_count": 448,
+    "word_count": 71
+  },
+  {
+    "chunk_id": 60,
+    "text": "Jumping into cold water feels very cold initially, but later the coldness reduces. \nThis is called sensory adaptation. \nPerception is the process of selecting, organizing and interpreting sensory information to give it\nmeaning. \nSensation → receives information \nPerception → understands the meaning \nExample: \n\u0000 \n\u0000 \nSensation: Seeing a curved shape with stripes \nPerception: Recognizing it as a tiger \nThus, perception is active, creative and subjective. \nExample:",
+    "char_count": 465,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 61,
+    "text": "Example:\nYou hear people talking → You focus on your friend‘s voice → identify words → understand the\nmeaning. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura\nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n27 \n⭐\n⭐Closure \nExample: \nPrinciple\nFigure–\nGround \nSimilarity \nProximity \nContinuity \n 9. Depth Perception \nThese rules show the mind organizes information automatically. \nHumans see the world in three dimensions (3D) and judge distance.",
+    "char_count": 481,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 62,
+    "text": "Depth perception helps us know objects are near or far. \nDepth perception depends on: \n 8. Principles of Perceptual Organization (Gestalt Psychology) \nCue Type Meaning \nBinocular Cues   Use both eyes (retinal disparity and convergence) \nMonocular Cues Use one eye (relative size, shadow, interposition, texture, linear perspective) \nAccording to Gestalt psychologists, human mind organizes information as a whole, not in parts.\nKey Gestalt principles: \nJaipur Engineering College and Research",
+    "char_count": 492,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 63,
+    "text": "Jaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nMeaning\nDistinguish object (figure) from \nbackground \nExample \nReading black letters on white page \nStudents in same school uniform appear as \none group \nDots close together seem like clusters \nFollowing a curving line rather than separate \nfragments \nSimilar items are grouped \nNearby items are grouped \nPrefer smooth patterns rather than \nbroken ones",
+    "char_count": 484,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 64,
+    "text": "Prefer smooth patterns rather than \nbroken ones \nMind fills missing parts to complete an \nobject Seeing a broken circle as a full circle \n28 \n⭐\n⭐This makes perception reliable. \n 10. Perceptual Constancy \n 11. Illusions and Hallucinations \nExamples of Illusions: \n\u0000\n\u0000 \nMüller–Lyer illusion (lines appear different lengths)\nPonzo railway track illusion \nExamples of Hallucinations: \n\u0000 Hearing voices → often seen in schizophrenia \nEven when sensory input changes, perception remains stable. \nType",
+    "char_count": 495,
+    "word_count": 71
+  },
+  {
+    "chunk_id": 65,
+    "text": "Type\nSize Constancy \nExample\nA person far away still appears normal-sized, not tiny \nShape Constancy  A door looks rectangular whether open or closed\nColor Constancy   A red apple looks red in sunlight and shade \nTerm\nIllusion \nMeaning\nFalse perception of a real external object \nHallucination Perception without external object (hearing or seeing something that is not there) \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022.",
+    "char_count": 485,
+    "word_count": 73
+  },
+  {
+    "chunk_id": 66,
+    "text": "RIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nRoadside trees appear to come closer together at a far distance — this is linear perspective. \n29 \n⭐\n⭐ 14. Types of Attention \n 12. Factors Affecting Perception \nPART C — ATTENTION\n⭐ 13. Meaning and Definition of Attention \nPerception varies across individuals because of several influences: \nCategory\nPersonal\nBiological \nFactors\nMood, motives, expectations, learning, past experience\nSense organ health, brain function",
+    "char_count": 470,
+    "word_count": 68
+  },
+  {
+    "chunk_id": 67,
+    "text": "Sense organ health, brain function \nSocial/Cultural Customs, values, beliefs, upbringing \nSituational Light, distance, time pressure, environment \nType \nVoluntary Attention    Focus by personal effort \nMeaning Example\nStudying for exams \nInvoluntary Attention Attention attracted automatically  Turning toward a loud noise \nDivided Attention Paying attention to multiple tasks Driving while talking \nSustained Attention    Maintaining focus for long time    Reading a book for hours \nExample:",
+    "char_count": 492,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 68,
+    "text": "Example:\nA hungry person perceives food advertisements more strongly than a person who has eaten. \nAttention is the process of concentrating on certain stimuli while ignoring others.\nAttention acts like a spotlight → focusing on some information and excluding unnecessary data.\nExample: \nWatching a lecture while ignoring background noise. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n30\n⭐",
+    "char_count": 477,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 69,
+    "text": "Academic Year- 2025-2026 \n30\n⭐\n⭐ 15. Determinants of Attention \n 16. Errors and Problems of Attention \nAttention depends on: \nCharacteristics of Stimulus \n\u0000\n\u0000\n\u0000\n\u0000\n\u0000 \nIntensity (a loud sound)\nMovement (moving object)\nSize (big object attracts first)\nNovelty (new unusual things)\nContrast (bright color on dark background) \nPersonal / Internal Factors \n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000 \nInterest\nMotivation\nEmotions\nHabits\nPast experience\nFatigue or stress levels \nProblem\nDistraction \nExplanation",
+    "char_count": 474,
+    "word_count": 72
+  },
+  {
+    "chunk_id": 70,
+    "text": "Problem\nDistraction \nExplanation\nMind diverted by external stimuli \nMind wandering Thinking unrelated thoughts \nFatigue\nBoredom \nReduces concentration\nLow attention when task seems uninteresting \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nModern digital lifestyle (mobile, social media) increases attention problems, especially in students. \n31 \n⭐\n⭐ 18. Real-Life Applications",
+    "char_count": 465,
+    "word_count": 60
+  },
+  {
+    "chunk_id": 71,
+    "text": "31 \n⭐\n⭐ 18. Real-Life Applications \nThese three processes support one another:\nSensation → receives information\nAttention → selects useful information\nPerception → interprets information \nExample:\nIn a classroom: \n\u0000 Sensation → hearing teacher‘s voice \n\u0000 Attention → focusing on important lines \n\u0000 Perception → understanding meaning and storing in memory \nIf attention is weak, perception becomes weak → learning becomes weak. \nField\nEducation\nDriving\nSports\nMilitary \nImportance",
+    "char_count": 479,
+    "word_count": 68
+  },
+  {
+    "chunk_id": 72,
+    "text": "Education\nDriving\nSports\nMilitary \nImportance\nTeachers use visual aids and engaging methods to maintain attention\nRequires strong attention and depth perception for safety\nAthletes depend on focus, perception of movement, reaction speed\nSoldiers need sharp attention and quick perception \nDesign & Advertising Attractive visuals influence perception and attention \nMental Health Hallucinations and perception errors indicate disorders \nJaipur Engineering College and Research",
+    "char_count": 475,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 73,
+    "text": "Jaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n17. Relationship between Sensation, Perception and Attention \nUnderstanding perception and attention helps create better learning tools, safer environments, high\nperformance systems and mental health treatments. \n32 \n⭐\n⭐ 19. Summary \n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000 \nSensation = Receiving information from environment\nPerception = Giving meaning to information",
+    "char_count": 478,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 74,
+    "text": "Perception = Giving meaning to information\nAttention = Selecting important information and ignoring others\nSense organs convert stimuli into signals\nGestalt laws explain how we organize information\nDepth perception allows 3D understanding of space\nIllusions & hallucinations show perception can be incorrect\nAttention is influenced by both external and internal factors\nAll three processes are crucial for learning, memory, communication and survival",
+    "char_count": 450,
+    "word_count": 62
+  },
+  {
+    "chunk_id": 75,
+    "text": "Human experience of the world depends on howwe sense, interpret and focus on information. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura\nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n33 \n⭐2. Theories of Learning\nThere are several major theoretical approaches: \n🔸 1. Behavioristic Approach \nWhat learning is NOT \nNot learning \nReflex actions \nMaturation \nTemporary changes \nReason \nThey are inborn, not learned \nGrowth due to biological development",
+    "char_count": 486,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 76,
+    "text": "Growth due to biological development \nTiredness, drugs, emotions \nEveryday examples of learning \n\u0000 \n\u0000 \u0000 \n\u0000 \nA child learns to speak and write \nA driver learns traffic rules \nStudents learn problem solving \nEmployees learn communication and leadership \nIn short: Learning = Experience + Practice ➜  Change in Behavior \n1. Meaning and Definition of Learning\nLearning is one of the core psychological processes.",
+    "char_count": 408,
+    "word_count": 62
+  },
+  {
+    "chunk_id": 77,
+    "text": "It is a relatively permanent change in behavior or knowledge due to experience, practice, or \ntraining. \nKey characteristics of learning \nFeature \nChange in behaviour \nRelatively permanent \nResults from experience \nGoal-directed \nExplanation \nLearning results in modification of actions or thoughts \nNot temporary like fatigue or motivation \nLearning comes from environment, feedback, practice \nLearning helps in adaptation and survival \nJaipur Engineering College and Research",
+    "char_count": 477,
+    "word_count": 62
+  },
+  {
+    "chunk_id": 78,
+    "text": "Jaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n34 \n \nUNIT- 4 LEARNING & CONDITION 3. Classical Conditioning – Pavlov\nClassical Conditioning explains how a neutral stimulus becomes associated with a natural reflex. \nPavlov‘s Experiment (Dog and Bell) \nStage \nBefore Conditioning \nNeutral Phase \nConditioning Phase \nAfter Conditioning \nStimulus \nFood → (US) \nBell (NS) \nBell + Food \nBell → (CS) \nResponse",
+    "char_count": 487,
+    "word_count": 70
+  },
+  {
+    "chunk_id": 79,
+    "text": "Bell (NS) \nBell + Food \nBell → (CS) \nResponse \nSalivation → (UR) \nNo Response \nSalivation \nSalivation → (CR) \nUS – Unconditioned Stimulus \nUR – Unconditioned Response \nCS – Conditioned Stimulus \nCR – Conditioned Response \nPrinciples of Classical Conditioning \n\u0000 \n\u0000 \u0000 \n\u0000 \u0000 \nAcquisition \nExtinction \nSpontaneous Recovery \nGeneralization \nDiscrimination \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026",
+    "char_count": 485,
+    "word_count": 68
+  },
+  {
+    "chunk_id": 80,
+    "text": "RIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nStates that learning occurs due to associations between stimulus and response. \nFocuses on observable behavior, not inner thoughts. Representative theories: \n\u0000 \n\u0000 \nClassical Conditioning – Ivan Pavlov Operant Conditioning – B.F. Skinner \n🔸 2. Cognitive Approach \nLearning involves thinking, memory, perception and understanding rather than just behavior. \u0000 Theory: Insight Learning – Wolfgang Köhler",
+    "char_count": 449,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 81,
+    "text": "\u0000 Theory: Observational Learning – Albert Bandura \n🔸 3. Humanistic Approach \nLearning is driven by personal growth, motivation and self-actualization. \u0000 Theory: Experiential Learning – Carl Rogers \n35 Applications of Operant Conditioning \n\u0000\n\u0000\n\u0000\n\u0000 \nClassroom token economy\nParenting / behavior shaping\nSports training\nCorporate rewards \nReinforcement Schedules \nType \nFixed Interval \nVariable Interval \nFixed Ratio \nVariable Ratio \nPattern \nReward after fixed time \nReward after unpredictable time",
+    "char_count": 496,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 82,
+    "text": "Reward after unpredictable time \nReward after fixed number of responses \nUnpredictable number of responses \nResult\nModerate learning\nStrong learning\nFast performance\nHighest resistance to extinction \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nReal-life applications \n\u0000 \n\u0000 \n\u0000 \n\u0000 \nFear learning (phobias) Advertising (brand–emotion pairing) \nTaste aversions School learning",
+    "char_count": 463,
+    "word_count": 60
+  },
+  {
+    "chunk_id": 83,
+    "text": "Taste aversions School learning \n4. Operant Conditioning – B.F. Skinner \nOperant conditioning explains learning through consequences of actions. \nBehavior that is rewarded → repeated. \nBehavior that is punished → reduced. \nSkinner Box experiment \nRat → presses lever → receives food → behavior strengthened. \nTypes of Reinforcement \nType \nPositive\nNegative \nDescription \nAdding reward \nRemoving unpleasant stimulus \nGiving unpleasant \nconsequence \nRemoving reinforcement \nExample",
+    "char_count": 479,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 84,
+    "text": "consequence \nRemoving reinforcement \nExample \nPraise for scoring high \nRemoving restrictions when behavior \nimproves Scolding / fine \nIgnoring tantrums Punishment \nExtinction \n36 7. Biological Basis of Learning\nLearning involves: \n\u0000 \n\u0000 \u0000 \n\u0000 \nSynaptic changes \nNeural plasticity \nReward pathway (dopamine release) \nMyelination for skill automation \n8. Memory and Learning Relationship\nLearning requires storage and retrieval of information. \nStage \nEncoding \nStorage \nRetrieval \nFunction",
+    "char_count": 486,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 85,
+    "text": "Stage \nEncoding \nStorage \nRetrieval \nFunction \nProcessing input \nRetaining information \nBringing stored info to awareness \n6. Social / Observational Learning – Albert Bandura\nPeople learn by watching others, not only from direct experience. \nProcess 1. Attention \n2. Retention \n3. Reproduction \n4. Motivation \nExample: Children imitating aggressive actions after viewing the Bobo Doll experiment. \n \nJaipur Engineering College and Research \nCentre, Shri Ram ki Nangal, via Sitapura",
+    "char_count": 481,
+    "word_count": 64
+  },
+  {
+    "chunk_id": 86,
+    "text": "Centre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n5. Cognitive Learning – Köhler’s Insight Theory \nInsight learning occurs through sudden understanding, not trial-and-error. \nExample: Köhler‘s chimp ―Sultan‖ used a stick to get bananas — solution came through insight. \nFeatures \n\u0000 \n\u0000 \u0000 \nProblem is recognized \nObservation and reasoning occur \nSudden solution appears \n37 Learning improves when: \n\u0000\n\u0000\n\u0000\n\u0000 \nRehearsal\nSpaced repetition\nMeaningful association",
+    "char_count": 498,
+    "word_count": 71
+  },
+  {
+    "chunk_id": 87,
+    "text": "Rehearsal\nSpaced repetition\nMeaningful association\nFeedback is provided \n10. Applications of Learning: Behavior Modification\nLearning principles are applied to change undesirable behavior.\nTechniques \n\u0000 \n\u0000 \u0000 \n\u0000 \nUses \n\u0000 \u0000 \n\u0000 \u0000 \n\u0000 \nSystematic Desensitization (reduce phobias) \nToken Economy (reward-based learning) \nTime Out (reduce aggression) \nCognitive-Behavioral Therapy (CBT)\nClinical therapy \nSchool education \nAddiction recovery \nAutism training \nEmployee performance improvement",
+    "char_count": 485,
+    "word_count": 59
+  },
+  {
+    "chunk_id": 88,
+    "text": "Autism training \nEmployee performance improvement \n9. Transfer of Learning\nWhen learning in one situation influences performance in another. \nType \nPositive \nNegative \nZero \nInfluence \nHelps learning \nInterferes \nNo effect \nExample \nLearning bicycle helps bike riding \nDriving left-side vehicle interferes with right-side driving \nMath skills don‘t affect painting skill \n11. Summary \n\u0000\n\u0000\n\u0000\n\u0000 \nLearning is a relatively permanent change in behavior due to experience.",
+    "char_count": 466,
+    "word_count": 64
+  },
+  {
+    "chunk_id": 89,
+    "text": "Main theories: Classical Conditioning, Operant Conditioning, Cognitive Learning,\nObservational Learning, Humanistic Learning.\nPavlov explained stimulus-response association.\nSkinner explained reinforcement and punishment. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n38 Jaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026",
+    "char_count": 488,
+    "word_count": 60
+  },
+  {
+    "chunk_id": 90,
+    "text": "RIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \nKöhler emphasized insight. \nBandura emphasized learning through observation. \nLearning principles are widely used in education, therapy, parenting, and workplace \nperformance. \n39 \n\u0000\n\u0000\n\u0000  \nPsychology is a scientific and systematic study of the human mind and behavior. Throughout this\ncourse, we explored how individuals think, feel, learn, interact with others, and develop across",
+    "char_count": 431,
+    "word_count": 60
+  },
+  {
+    "chunk_id": 91,
+    "text": "their lifespan. The subject expands our understanding of human nature by combining biological\nfoundations, mental processes, and social influences. This makes psychology not only an\nacademic discipline but also a practical guide for improving everyday life.\nThe course began with an Introduction to Psychology, highlighting its nature, scope, history, and\ngoals. We learned that psychology seeks to describe, explain, predict, and control behavior. It",
+    "char_count": 451,
+    "word_count": 64
+  },
+  {
+    "chunk_id": 92,
+    "text": "incorporates multiple perspectives—including biological, cognitive, behavioral, humanistic, and\nsocio-cultural viewpoints—to interpret human experience in a holistic manner. Psychology is\nbuilt on both empirical research and theoretical understanding, making it a bridge between\nscience and humanity.\nAs we progressed, we studied how biological and environmental forces together shape behavior.\nGenetics provide the biological foundation, while learning and social interaction refine",
+    "char_count": 483,
+    "word_count": 59
+  },
+  {
+    "chunk_id": 93,
+    "text": "behavioral patterns. In developmental psychology, we examined how individuals pass through\nphysical, emotional, cognitive, and social stages from infancy to old age. This highlights that\ngrowth is continuous and influenced by heredity, family, culture, and life experiences.\nA major component of the subject focused on learning and conditioning, which explained how\npeople acquire new behaviors. Classical conditioning, operant conditioning, insight learning, and",
+    "char_count": 463,
+    "word_count": 62
+  },
+  {
+    "chunk_id": 94,
+    "text": "observational learning collectively demonstrated that behavior is shaped not only by rewards and\npunishments but also by thinking, reasoning, and imitation. The practical applications of learning\nprinciples, especially in behavior modification, education, therapy, parenting, and workplace\nperformance, emphasize the real-world relevance of psychology.\nThroughout the subject, a recurring theme was that the mind and behavior are inseparable.",
+    "char_count": 442,
+    "word_count": 57
+  },
+  {
+    "chunk_id": 95,
+    "text": "Thoughts, feelings, memory, motivation, and perception play an important role in shaping\nactions. Psychological concepts also illustrated that behavior is influenced by multiple\ndimensions—biological, psychological, cognitive, emotional, and social. This multidimensional\napproach deepens our understanding of individual differences and promotes empathy and\ntolerance.\nPsychology also emphasizes mental health andemotional well-being. It helps individuals manage",
+    "char_count": 462,
+    "word_count": 54
+  },
+  {
+    "chunk_id": 96,
+    "text": "stress, adjust to change, build self-confidence,andmaintain healthy relationships. The subject\nhighlights the importance of resilience, positivethinking, emotional intelligence, and self-\nawareness in achieving a balanced and fulfillinglife. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n40 \n \nCONCLUSION Future psychological research will integrate artificial intelligence, neuroimaging, genetic",
+    "char_count": 483,
+    "word_count": 57
+  },
+  {
+    "chunk_id": 97,
+    "text": "studies, virtual therapy, personalized learning systems, and advanced diagnostic\nassessments. Psychology‘s role in education, industry, healthcare, and digital well-being will\ncontinue expanding. \nFuture psychological research will integrate artificial intelligence, neuroimaging, genetic \nstudies, virtual therapy, personalized learning systems, and advanced diagnostic \nassessments. Psychology‘s role in education, industry, healthcare, and digital well-being \nwill continue expanding.",
+    "char_count": 487,
+    "word_count": 53
+  },
+  {
+    "chunk_id": 98,
+    "text": "will continue expanding. \nFuture psychological research will integrate artificial intelligence, neuroimaging, genetic \nstudies, virtual therapy, personalized learning systems, and advanced diagnostic \nassessments. Psychology‘s role in education, industry, healthcare, and digital well-being \nwill continue expanding. \nFuture psychological research will integrate artificial intelligence, neuroimaging, genetic \nstudies, virtual therapy, personalized learning systems, and advanced diagnostic",
+    "char_count": 491,
+    "word_count": 52
+  },
+  {
+    "chunk_id": 99,
+    "text": "assessments. Psychology‘s role in education, industry, healthcare, and digital well-being \nwill continue expanding. \nFuture psychological research will integrate artificial intelligence, neuroimaging, genetic \nstudies, virtual therapy, personalized learning systems, and advanced diagnostic \nassessments. Psychology‘s role in education, industry, healthcare, and digital well-being \nwill continue expanding. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura",
+    "char_count": 489,
+    "word_count": 56
+  },
+  {
+    "chunk_id": 100,
+    "text": "Centre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n41 \nFUTURE SCOPE REFERENCES \n1 Baron, R. A. Psychology. \n2 Morgan & King. Introduction to Psychology. \n3 Goleman, Daniel. Emotional Intelligence. \n4 Freud, Sigmund. Psychoanalytic Theory. \n5 Maslow, Abraham. Motivation and Personality. \n6 Gardner, Howard. Frames of Mind. \n7 \n8 \nAPA Handbook of Psychology. \nSelye, H. (1956). The Stress of Life. McGraw-Hill.",
+    "char_count": 450,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 101,
+    "text": "9 Lazarus, R. S., & Folkman, S. (1984). Stress,Appraisal,andCoping.Springer \n. \nJaipur Engineering College and Research\nCentre, Shri Ram ki Nangal, via Sitapura \nRIICO Jaipur- 302 022. \nAcademic Year- 2025-2026 \n42",
+    "char_count": 214,
+    "word_count": 30
+  }
+]
